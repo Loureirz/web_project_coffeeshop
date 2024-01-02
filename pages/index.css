@@ -118,18 +118,14 @@ body {
   box-sizing: border-box;
 }
 
-.header__paragraph {
+.header__paragraph-hours {
   list-style: none;
   margin: 0;
   padding-left: 80px;
   padding-bottom: 40px;
 }
 
-.header__paragraph__item-list {
-  margin: 0;
-}
-
-.header__paragraph__adress {
+.header__paragraph-adress {
   display: flex;
   align-items: flex-end;
   margin: 0;
