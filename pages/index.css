@@ -125,11 +125,11 @@ body {
   padding-bottom: 40px;
 }
 
-.header__paragraph_item-list {
+.header__paragraph__item-list {
   margin: 0;
 }
 
-.header__paragraph_adress {
+.header__paragraph__adress {
   display: flex;
   align-items: flex-end;
   margin: 0;
