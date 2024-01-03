@@ -272,7 +272,7 @@ body {
 }
 
 .form__button:focus {
-  outline-color: 70%;
+  opacity: 70%;
 }
 
 .form__checkbox {
