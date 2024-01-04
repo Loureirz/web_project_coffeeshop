@@ -38,9 +38,11 @@
   line-height: 20px;
   background-color: #2f80ed;
   color: #fff;
+  cursor: pointer;
+  transition: 0.4s;
 }
 
-.form__button:focus {
+.form__button:hover {
   opacity: 70%;
 }
 
